@@ -1,4 +1,4 @@
-package desafio9_3_lacos_condicionais;
+package desafio_9_3_lacos_condicionais;
 
 import java.util.Scanner;
 

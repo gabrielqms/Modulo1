@@ -1,4 +1,4 @@
-package entrada_saida_operadores_java_exercicio1;
+package desafio_8_4_pratica;
 
 import java.util.Scanner;
 
